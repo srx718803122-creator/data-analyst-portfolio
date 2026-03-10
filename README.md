@@ -7,9 +7,13 @@
 ## 📂 项目结构
 data-analyst-portfolio/
 ├── data/ # 数据集（原始 / 清洗后）
+
 ├── sql/ # SQL 分析脚本
+
 ├── notebooks/ # Jupyter 核心分析代码
+
 ├── results/ # 可视化图表 & 业务报告
+
 └── README.md # 项目说明文档
 
 ## 🎯 核心项目：电商用户行为深度分析
