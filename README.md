@@ -1,2 +1,7 @@
-# data-analyst-portfolio
-Data Analysis Portfolio | Python | Pandas | SQL | EDA | 作品集
+# 数据分析师作品集 | 专用
+## 📌 项目信息
+- **项目定位**：电商用户行为分析（企业级真实业务场景）
+- **技术栈**：Python (Pandas/NumPy/Matplotlib) | SQL | 数据清洗 | EDA | RFM用户分层
+- **展示内容**：完整数据分析流程、业务洞察、可落地运营建议
+
+## 📂 项目结构
